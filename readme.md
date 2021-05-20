@@ -1,6 +1,8 @@
-# Hankyung Python course
+# Hankyung Bigdata Academy
 
-## used language : Python
+## used language : R, Python
+
 ## ABOUT
+* Statistic analysis using R
 * python data analysis
 * machine learning / deep learning
